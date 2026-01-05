@@ -1,3 +1,5 @@
 Git is awesome
 
 Feature 1 is completed
+
+hello from branch 2
