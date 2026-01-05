@@ -1,1 +1,3 @@
 Git is awesome
+
+Feature 1 is completed
