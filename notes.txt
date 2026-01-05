@@ -2,4 +2,5 @@ Git is awesome
 
 Feature 1 is completed
 
+Hello from b3
 hello from branch 2
